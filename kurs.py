@@ -133,6 +133,41 @@
 # print("Moje ime je", ime)
 
 
+# ------
+
+
+
+# brojJedan = int(input("Unesite neki broj: "))
+# brojDva = int(input("Unesite neki broj: "))
+
+# print("Zbir ova dva broja je", brojJedan+brojDva)
+
+
+# ------------------------
+
+# broj1 = int(input("unesite prvi broj: "))
+# broj2 = int(input("unesite drugi broj: "))
+# broj3 = int(input("unesite treci broj: "))
+
+# vrednost_izraza = (broj1+broj2)/broj3
+
+# # print((broj1+broj2)/broj3)
+# print(vrednost_izraza)
+
+
+# ------------------------------
+
+# a = float(input("iUnesite duzinu stranica a: "))
+# b = float(input("iUnesite duzinu stranica b: "))
+
+# povrsina = a*b
+# print(povrsina)
+
+# ---------------------------
+
+
+# eur = int(input("Unesite koliko imate evra: "))
+# print("To je", eur * 117.5, "dinara")
 
 
  
