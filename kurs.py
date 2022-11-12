@@ -53,7 +53,7 @@
 
 
 
-# ------------- 2. cas
+# ------------- 2, 3. cas
 
 
 # obnavljanje 
@@ -64,7 +64,7 @@
 
 
 # 1. ars
-# 2. povrsina kv ili prav
+# 2. povrsina kv prav
 # 3. pretvaranje iz eur u din
 # 4. ime, prezime, skola ispis
 
@@ -170,20 +170,63 @@
 # print("To je", eur * 117.5, "dinara")
 
  
-# --------------------------------
+
+
+# ------------- 4. cas
+
+# vezbanje unosa i prethodnih stvari
+# aritmeticki operatori
+# pretvaranje iz jednog u drugi tip podatka
 
 
 
+# ime = "Petar"
+# prezime = "Vucinic"
+
+
+# broj = "1234567890"
+# broj = 1234567890
+
+
+# broj = int(input("Unesite neki broj: "))
+# print("Broj koji ste uneli je: ", broj)
+
+
+# ----------------------------   
+
+
+# broj1 = int(input("Unesite vrednost za 1. broj: "))
+# broj2 = int(input("Unesite vrednost za 2. broj: "))
+# broj3 = int(input("Unesite vrednost za 3. broj: "))
+
+# aritmeticka_sredina = (broj1 + broj2 + broj3) / 3
+
+# print("Artimecka sredina 3 uneta broja je: ", aritmeticka_sredina)
+
+# print("Aritmecka sredina 3 uneta broja je: ", (broj1 + broj2 + broj3) / 3)
+
+
+# -----------------------
+
+
+# a = int(input("unesite vrednost za a: "))
+# b = int(input("unesite vrednost za b: "))
+# c = int(input("unesite vrednost za c: "))
+# x = int(input("unesite vrednost za x: "))
+
+# vrednostIzraza = a * x**3 + b * x**2 - (c+1)**2
+
+# print("Vrednost izraza je: ", vrednostIzraza)
+
+
+# -----------------------------
 
 
 
+r = float(input("Unesite vrednost poluprecnika kruga: "))
+pi = 3.14
 
+P = r**2 * pi
+O = 2*r*pi
 
-
-
-
-
-
-
-
-
+print("Povrsina je: ", P, "a obim je: ", O)
