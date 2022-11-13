@@ -223,10 +223,69 @@
 
 
 
-r = float(input("Unesite vrednost poluprecnika kruga: "))
-pi = 3.14
+# r = float(input("Unesite vrednost poluprecnika kruga: "))
+# pi = 3.14
 
-P = r**2 * pi
-O = 2*r*pi
+# P = r**2 * pi
+# O = 2*r*pi
 
-print("Povrsina je: ", P, "a obim je: ", O)
+# print("Povrsina je: ", P, "a obim je: ", O)
+
+# -----------------------------------
+
+# tipovi podataka - prosti slozeni
+# prosyi int float str boolean
+
+
+# varijabla1 = True
+# var2 = False
+
+# # False 
+# print(4 == 99)    
+# # True
+# print(10 == 10)
+# # True
+# print("cat" != "dog")
+# # True
+# print("mouse" == "mouse")
+
+# -----------------------
+
+
+# a = float(input("Unesite vrednost stranice a: "))
+# b = float(input("Unesite vrednost stranice b: "))
+# c = float(input("Unesite vrednost stranice c: "))
+
+# S = (a + b + c) / 2
+
+# P = (S*(S-a)*(S-b)*(S-c))**0.5
+
+# print("Povrsina je: ", round(P,3))
+
+
+
+# --------------------
+
+
+# 54
+# 45
+
+# 57
+# 75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
