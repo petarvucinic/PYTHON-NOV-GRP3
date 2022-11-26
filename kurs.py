@@ -383,22 +383,69 @@
 # --------------------------------
 
 
-broj = int(input("uensitre neki dvocifreni broj: "))
+# broj = int(input("uensitre neki dvocifreni broj: "))
 
-#  "54"
-broj = str(broj)
+# #  "54"
+# broj = str(broj)
 
-prvaCifra = broj[0]
-drugaCifra = broj[1]
+# prvaCifra = broj[0]
+# drugaCifra = broj[1]
 
-print(drugaCifra + prvaCifra)
-
-# 
+# print(drugaCifra + prvaCifra)
 
 
+# --------------------------
 
 
+broj=int(input("unesite broj koji zelite da se proveri"))
+if broj>0:
+    print("broj je pozitivan")
+elif broj ==0:
+    print("broj je neutralan")
+else:
+    print("negativan")
+# broj=int(input("unesite broj koji zelite da se proveri"))
+# if broj>0:
+#     print("broj je pozitivan")
+# elif broj ==0:
+#     print("broj je neutralan")
+# else:
+#     print("negativan")
 
+# temperatura=int(input("unesite kolika temp napolju"))
+# if temperatura >24:
+#     print("TOPLO JE")
+# elif temperatura >=15<=24:
+#     print("UMERENO TOPLA TEMP")
+# elif temperatura<15:
+#     print("HLADNO JE")
+
+# prvi_broj=int(input("unesite prvi broj"))
+# drugi_broj=int(input("unesite drugi broj"))
+# if prvi_broj>drugi_broj:
+#     print("prvi broj je veci od drugog")
+# else:
+#     print("drugi broj je veci od prvog")
+
+# broj=int(input("unesite neki broj"))
+# if broj%2==0:
+#     print("broj je paran")
+# else:
+#     print("broj je neparan")
+
+# broj=int(input("unesite neki broj"))
+# if broj%7==0:
+#     print("broj", broj, "je deljiv sa 7")
+# else:
+#     print("broj" ,broj, "nije deljiv sa sedam")
+
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# suma=a+b
+# if suma>20:
+#     print("suma je veci od 20")
+# else:
+#     print("suma je manja od 20")
 
 
 
