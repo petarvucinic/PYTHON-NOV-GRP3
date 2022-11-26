@@ -275,11 +275,125 @@
 
 
 
+# ---------------------
+
+# # int
+# broj = 123
+# # str
+# broj2 = "123"
+
+# #      123 == "123"
+# print(broj == broj2)
+
+
+# ------------------------
+
+
+# broj = 5
+
+# drugi_broj = int(broj)
+
+# print("ovo je int tip podatka:", broj)
+# print("ovo je float tip podatka:", drugi_broj)
+
+
+# broj3 = 5.0
+
+# treciBroj = int(broj3)
+
+# print(treciBroj)
+
+
+# print(str(broj))
+
+# --------------
+
+
+# broj = "123jijce"
+
+# broj2 = int(broj)
+
+
+# print(broj2)
+
+# ------------------------
+
+
+# var = True
+# var2 = False
+
+
+# print(bool(0))
+# print(bool(50))
+# print(bool(-50))
+
+
+# print(bool("72te"))
+# print(bool(""))
+# print(bool(" "))
+
+# ---------------------
+
+
+# broj = int(input("Unesite neki dvocifereni broj: "))
+# # 54
+
+# # 4
+# cifraJedinice = broj % 10
+# # 5
+# cifraDesetice = broj // 10
+
+# #        "4"  + "5"
+# #            "45"
+# print(int(str(cifraJedinice) + str(cifraDesetice)))
+
+
+# ----------------------------------
+
+# print(5 + 5)
+# print("5" + "5")
+
+# ----------------------
+
+
+# a = float(input("Unesite duzinu stranice trougla: "))
+# h = float(input("Unesite duzinu visine trougla: "))
+
+# povrsinaTrougla = (a * h)/2
+
+# print("Povrsina trougla iznosi: ", round(povrsinaTrougla, 2))
+
+
+# ---------------------------------
 
 
 
+# skola = " jovan"
+# #        012345
 
 
+# print(skola[2])
+# print(skola[4])
+
+
+# print(skola[0])
+# print(skola[1])
+
+
+# --------------------------------
+
+
+broj = int(input("uensitre neki dvocifreni broj: "))
+
+#  "54"
+broj = str(broj)
+
+prvaCifra = broj[0]
+drugaCifra = broj[1]
+
+print(drugaCifra + prvaCifra)
+
+# 
 
 
 
