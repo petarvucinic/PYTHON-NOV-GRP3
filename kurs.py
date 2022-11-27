@@ -397,13 +397,13 @@
 # --------------------------
 
 
-broj=int(input("unesite broj koji zelite da se proveri"))
-if broj>0:
-    print("broj je pozitivan")
-elif broj ==0:
-    print("broj je neutralan")
-else:
-    print("negativan")
+# broj=int(input("unesite broj koji zelite da se proveri"))
+# if broj>0:
+#     print("broj je pozitivan")
+# elif broj ==0:
+#     print("broj je neutralan")
+# else:
+#     print("negativan")
 # broj=int(input("unesite broj koji zelite da se proveri"))
 # if broj>0:
 #     print("broj je pozitivan")
@@ -446,6 +446,181 @@ else:
 #     print("suma je veci od 20")
 # else:
 #     print("suma je manja od 20")
+
+
+
+
+# ----------------------
+
+
+# # true
+# print(True and True)
+# # false
+# print(True and False)
+# # false
+# print(False and True)
+# # false
+# print(False and False)
+
+
+# #      true and true
+# #        true
+# print(5>2 and 4==4)
+
+
+# # true
+# print(True or False)
+# # true
+# print(False or True)
+# # false
+# print(False or False)
+# # true
+# print(True or True)
+
+
+
+# print(not False)
+# print(not False)
+
+
+# print(1 == 5 and 6 > 8 or 5 > 4 and not 8 < 4)
+#       false and false
+#             false    or  true
+#                        true   and    true
+#                              true
+
+
+
+# print(1 > 1 or 3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6)
+#     false or true
+#              true  or false 
+#                         true and true
+#                                  true  and true
+#                                            true or false
+#                                                 true
+
+
+
+# print(not 2 > 1 and 3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6)
+#        flase and  true
+#               false   or false
+#                         false   and treu
+#                                    false   and true
+#                                                false or false
+#                                                       false
+
+
+#        false and true or false and true and true or false
+#                  false or false and true
+#                       false or false
+#                            false
+   
+
+
+# ------------------------------------------
+
+
+# a = 4
+# b = 6
+
+# #  4 > 3
+# # True
+
+# #  4 > 6
+# #  false
+# if a > b:
+#     print("a je veci od b")
+# else:
+#     print("b je veci od a")
+
+
+
+# ----------------------
+
+# # 6
+
+# broj = int(input("unesite neki broj: "))
+
+# #   6%2 == 0
+# #    0 == 0
+# # if True:
+# if broj % 2 == 0:
+#     print("broj je paran")
+# else:
+#     print("broj je neparan")
+
+
+# --------------
+
+# # -6
+# broj = int(input("Unesite neki broj: "))
+
+# #   -6 > 0
+# #  false
+# if broj > 0:
+#     print("Broj je pozitivan")
+#     #  -6 < 0
+#     # true
+# elif broj < 0:
+#     print("broj je negativan")
+# else:
+#     print("broj je neutralan")
+# # elif broj == 0:
+# #     print("broj je neutrlana")
+
+
+# -------------------------
+
+
+# stranicA = int(input("Unesite duzinu stranice A: "))
+# stranicB = int(input("Unesite duzinu stranice B: "))
+
+# #  11 == 10
+# # False
+# #  10 == 10
+# #   True
+# if stranicA == stranicB:
+#     print("Povrsina kvadrata iznosi: ", stranicA**2)
+# else:
+#     print("Povrsina pravougaonika inzosi: ", stranicA * stranicB)
+
+
+
+# -----------------------------------------------
+
+
+rec = str(input("Unesite neku rec: "))
+# agimnazija
+# 0123456789
+
+if rec[0] == "a" or rec[0] == "A":
+    print("rec pocinje slovom a")
+else:
+    print("rec ne pocinje slovom a")
+
+
+
+# -------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
