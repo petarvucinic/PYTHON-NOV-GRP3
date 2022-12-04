@@ -641,11 +641,86 @@
 # ja se zovem ---- i imam ---- godina.
 
 
-ime = "petar"
-prezime = "vucinic"
-godine = 17
+# ime = "petar"
+# prezime = "vucinic"
+# godine = 17
 
-print("ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
+# print("ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
+
+
+
+# print("ovo je kurs pajtona.")
+
+
+# broj = 10
+# moja_Skola = "jovan"
+# 54broj = 48
+# ?csgdiudc = 54
+
+# --------------------
+
+
+# broj1 = 8
+# broj2 = 10
+# broj3 = 14
+
+# zbir = broj1 + broj2 + broj3
+
+# print("zbir je", zbir)
+
+
+# ------------------------
+
+# brojJedan = 8
+# brojDva = 4
+# brojTri = 5
+# brojCetiri = 2
+
+# # zbir = brojJedan + brojDva
+# # razlika = brojTri - brojCetiri
+
+# # rezultat = zbir * razlika
+
+# rezultat = (brojJedan + brojDva) * (brojTri - brojCetiri)
+
+# print("Vrednost izraza je", rezultat)
+
+
+# ----------------
+
+# stranica_a = 15
+
+# povrsina = stranica_a * stranica_a
+
+# print("Povrsina kvadrata stranice", stranica_a, "iznosi", povrsina)
+
+# -------------------------------
+# b*b - 4*a*c
+
+# a = 8
+# b = 41
+# c = 9
+
+# vrednostIzraza = b*b - 4*a*c
+
+# print("Vrednost izraza iznosi", vrednostIzraza)
+
+
+# ---------------------------
+
+
+stranica_A = 3
+stranica_B = 5
+
+Obim = 2*stranica_A + 2*stranica_B
+
+
+print("Obim pravouganika iznosi", Obim)
+
+
+
+
+
 
 
 
