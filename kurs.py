@@ -589,18 +589,69 @@
 # -----------------------------------------------
 
 
-rec = str(input("Unesite neku rec: "))
-# agimnazija
-# 0123456789
+# rec = str(input("Unesite neku rec: "))
+# # agimnazija
+# # 0123456789
 
-if rec[0] == "a" or rec[0] == "A":
-    print("rec pocinje slovom a")
-else:
-    print("rec ne pocinje slovom a")
+# if rec[0] == "a" or rec[0] == "A":
+#     print("rec pocinje slovom a")
+# else:
+#     print("rec ne pocinje slovom a")
 
 
 
 # -------------------------------------
+
+# print znaci ispis ili stampaj u terminalu
+# print("ovo je kurs pajtona.")
+
+# print("ja sam ucenik gimnazije")
+
+
+# ----------------------------------
+
+# broj = 6
+# broj2 = 4.54
+# rec = "python"
+
+# # print(broj2)
+# # print(rec)
+
+# print("Broj koji ste zadali je", broj2)
+
+
+# broj = 5
+
+# moja_Skola = "jovan"
+
+# broj1 = 5
+# broj2 = 4
+
+
+# print("Vas prvi broj je", broj1, "a drugi broj je", broj2)
+
+
+# skola = "jovan"
+# Skola = "jovan"
+# sKola = "jovan"
+# skOla = "jovan"
+# skoLa = "jovan"
+
+
+# ja se zovem ---- i imam ---- godina.
+
+
+ime = "petar"
+prezime = "vucinic"
+godine = 17
+
+print("ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
+
+
+
+
+
+
 
 
 
