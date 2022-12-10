@@ -709,13 +709,96 @@
 # ---------------------------
 
 
-stranica_A = 3
-stranica_B = 5
+# stranica_A = 3
+# stranica_B = 5
 
-Obim = 2*stranica_A + 2*stranica_B
+# Obim = 2*stranica_A + 2*stranica_B
 
 
-print("Obim pravouganika iznosi", Obim)
+# print("Obim pravouganika iznosi", Obim)
+
+# -------------------------------
+
+# print - znaci ispis ili stampaj
+# print("ovo je kurs pajtona")
+# print("ja sam ....")
+
+
+# broj = 10
+# skola = "vuk karadzic"
+# brojDva = 5
+# moja_Skola = "jovan j zmaj"
+
+
+# print("ja idem u", skola)
+# print(moja_Skola)
+# print(brojDva)
+
+# ------------------
+
+# ime = "saima"
+# godine = 9
+
+
+# print("moje ime je", ime, "i imam", godine, "godina.")
+
+# -------------------
+
+
+# broj1 = 5
+# broj2 = 10
+
+
+# print(broj1 + broj2)
+# print(broj1 - broj2)
+# print(broj1 * broj2)
+# print(broj1 / broj2)
+
+
+# ----------
+
+
+# ocena1 = 4
+# ocena2 = 5
+# ocena3 = 4
+# ocena4 = 3
+
+# prosecna_ocena = (ocena1 + ocena2 + ocena3 + ocena4) / 4
+
+# print("Vasa prosecna ocena je", prosecna_ocena)
+
+
+
+# ----------------------------------------------------
+
+
+# # int - celi brojevi
+# broj = 484
+# broj0 = 1234
+
+# # float - decimalni brojevi
+# broj2 = 54.12
+# broj3 = -54.12
+
+# # string - niz karaktera
+# rec = "skolaaaaaaaa45848484#!#!$!@$@!##@!^#$%&%"
+# broj5 = "1234"
+
+
+# ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
