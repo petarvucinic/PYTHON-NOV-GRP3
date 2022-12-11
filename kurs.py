@@ -789,40 +789,67 @@
 
 
 
+# broj1 = 9
+# broj2 = 7.4
+# broj3 = -1.32
+
+# vrednost_izraza = (broj1 + broj2) / broj3 
+
+# print("vrednost izraza je", vrednost_izraza)
 
 
+# ----------------------------------
 
 
+# moja_kola = "j"
 
 
+# broj = 5
+# Broj = 5
+
+# broj = 123
+# broj2 = "123"
 
 
+# --------------------------------------
 
 
+# broj = int(input("unesite neki broj: "))
+# broj2 = float(input("unesite neki drugi broj: "))
+
+# print("Zbir ova dva broja je:", broj + broj2)
 
 
+# ----------------------
 
 
+# stranica_a = int(input("unesite duzinu stranice: "))
+# stranica_b = float(input("unesite duzinu druge stranice: "))
+
+# povrsina = stranica_a * stranica_b
+
+# print("Povrsina pravouganika je:", povrsina)
 
 
+# -----------------------------------------
 
 
+# a = int(input("Unesite duzinu stranice: "))
+# b = int(input("Unesite duzinu stranice: "))
+# c = int(input("Unesite duzinu stranice: "))
+
+# print("Obim trougla je:", a+b+c)
 
 
+# -----------------------------------------
 
 
+ime = str(input("Unesite vase ime: "))
+prezime = str(input("Unesite vase prezime: "))
+godine = int(input("Unesite vase godine: "))
 
 
-
-
-
-
-
-
-
-
-
-
+print("Ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
 
 
 
