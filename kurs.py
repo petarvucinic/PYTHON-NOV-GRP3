@@ -844,12 +844,154 @@
 # -----------------------------------------
 
 
-ime = str(input("Unesite vase ime: "))
-prezime = str(input("Unesite vase prezime: "))
-godine = int(input("Unesite vase godine: "))
+# ime = str(input("Unesite vase ime: "))
+# prezime = str(input("Unesite vase prezime: "))
+# godine = int(input("Unesite vase godine: "))
 
 
-print("Ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
+# print("Ja se zovem", ime, "a prezivam se", prezime, "i imam", godine, "godina")
+
+
+# -------------------------
+
+
+# ime = "nadj"
+
+# broj1 = int(input("Unesite neki broj: "))
+# broj2 = float(input("unesite neki broj: "))
+
+# print(broj1 + broj2)
+
+# ---------------------------
+
+
+# print(5 > 4)
+# print(5 >= 5)
+# print(5 > 5)
+
+# print(5 != 5)
+# print(5 == 5)
+
+# print(True and True)
+# print(True and False)
+# print(False and True)
+# print(False and False)
+
+# print(True or True)
+# print(True or False)
+# print(False or True)
+# print(False or False)
+
+# print(not False)
+# print(not True)
+
+
+# print(5>2 or 4==3)
+#     true or false
+#         true
+
+
+
+# print(4 == 99)
+# print(10 == 10)
+# print("cat" != "dog")
+# print("mouse" == "mouse")
+# print(0 or 5 < 4)
+# print(True and True)
+# print(False and True)
+# print(3 and 2 > 1)
+# print(False or True)
+# print(False or False)
+# print(not True)
+# print(not False)
+# print(True and (4 == 4))
+
+
+
+
+
+
+# print(1 > 1 or 3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6)
+#      false or true
+#              true  or false
+#                      true and true
+#                              true and true
+#   true or false
+#   true
+
+
+
+
+
+
+
+
+
+
+
+# print("lion" == "cat" or 99 != 88)
+#            false or true
+#                  true
+
+# print(" " == "" and 4 <3 and 5==5 or not True)
+#        false  and  false
+#               false    and  true
+#                          false   or false => false
+
+
+
+# print(not 2 > 1 and   3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6)
+#         false and  true
+#                     false      or   false
+#                             false   and  true
+#                                        false  and true 
+#  false or flase
+#  false
+
+
+# print(bool(5))
+# print(bool(-5))
+# print(bool(-5.94))
+# print(bool(0))
+
+# print("-" * 50)
+
+# print(bool("ygfe"))
+# print(bool("")) 
+# print(bool(" ")) 
+
+
+# ----------------------------
+
+
+# ime = "hamza"
+# #      01234
+
+# # print(len(ime))
+
+# print(ime[3])
+# print(ime[2])
+# print(ime[0])
+
+
+ime = "petar"
+#      01234
+#         -2-1
+
+# print(ime[3])
+# print(ime[-2])
+
+print(ime[0:5:2])
+
+
+# print(ime[0])
+# print(ime[1])
+# print(ime[2])
+# print(ime[3])
+# print(ime[4])
+
+
+
 
 
 
