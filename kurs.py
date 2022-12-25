@@ -974,14 +974,14 @@
 # print(ime[0])
 
 
-ime = "petar"
+# ime = "petar"
 #      01234
 #         -2-1
 
 # print(ime[3])
 # print(ime[-2])
 
-print(ime[0:5:2])
+# print(ime[0:5:2])
 
 
 # print(ime[0])
@@ -989,6 +989,94 @@ print(ime[0:5:2])
 # print(ime[2])
 # print(ime[3])
 # print(ime[4])
+
+
+
+# print(True and False)
+# print(True or False)
+
+
+# rec = "petar"
+# #      01234
+
+# # print(rec[3])
+
+# # print(rec[1:4])
+# # print(rec[1:5:2])
+
+# # print(rec[2::2])
+
+# print(rec[ :  :-1])
+
+
+
+
+# godiste = int(input("Unesite svoju godinu rodjenju: "))
+
+# tekuca_godina = 2022
+
+# print(tekuca_godina - godiste)
+
+
+
+# -------------------------------------------
+
+
+# # 
+# # True
+# # False
+# if 5>2:
+#     print("5 je vece od 2")
+#     print("ebdhbcv")
+# print("nesto drugo")
+
+# # false
+# # if false
+# if "mia" != "mia":
+#     print("uhcued")
+
+
+# broj1 = 5
+# broj2 = 4
+
+# if broj1 > broj2:
+#     print("ovo je tacno")
+# else:
+#     print("ovo je netacno")
+
+# print("kraj")
+
+
+# -
+
+
+# rec = "Apython"
+# #      012345
+
+# #     p == a
+# #    false
+# #   A == a
+# #       false   or   true
+# if rec[0] == "a" or rec[0] == "A":
+#     print("prvo lsovo je a")
+# else:
+#     print("prvo slovo nije a")
+
+# --------------------
+
+# 1. poz ili neg
+# 2. proverite reci veca od 10
+
+
+
+
+
+
+
+
+
+
+
 
 
 
