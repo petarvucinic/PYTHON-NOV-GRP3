@@ -1070,13 +1070,113 @@
 
 
 
+# if 5 < 2:
+#     print("5 je vece od 2")
+# else:
+#     print("ifueuvjev")
+
+
+# -----------------------
+
+# # -5
+# broj = int(input("Unesite neki broj: "))
+
+
+# #    -5 > 0
+# #    True False
+# # if True
+# # if False
+# if broj > 0:
+#     print("Uneti broj je pozitivan")
+# else:
+#     print("Uneti broj je negativan")
+
+
+# ---------------------------
+
+# # python
+# rec = str(input("Unesite neku rec: "))
+
+# #     6 > 9
+# #   False
+# #     11 > 10
+# #    True
+# if len(rec) > 9:
+#     print("Uneta rec ima vise od 10 karaktera")
+# else:
+#     print("Uneta rec nema vise od 10 karaktera")
+
+
+# -----------------------------
+
+
+# broj = -8
+
+# #   0 > 0 => False
+# #    -8 > 0 => false
+# if broj > 0:
+#     print("poz")
+# #    0 == 0 => True
+# #   -8 == 0 => false
+# elif broj == 0:
+#     print("broj je nula")
+# # 
+# else:
+#     print("neg")
+
+
+# ------------------
 
 
 
+# stranica_A = int(input("Unesite duzinu stranice a: "))
+# stranica_B = int(input("Unesite duzinu stranice b: "))
+
+# #  5 == 4
+# #   False
+# #  6 == 6
+# # True
+# if stranica_A == stranica_B:
+#     print("Povrsina kvadrata je: ", stranica_A * stranica_A)
+# else:
+#     print("Povrsina prabogoanika je: ", stranica_B * stranica_A)
+
+
+# --------------------
+
+
+# broj = int(input("Unesite neki broj: "))
+
+
+# #  5 % 2 == 0
+# #   1 == 0
+# #  False
+# #  6 % 2 == 0
+# #    0 == 0 => True
+# if broj % 2 == 0:
+#     print("uneti broj je paran")
+# else:
+#     print("broj je neparan")
 
 
 
+# ---------------------
 
+
+ocena = int(input("unesite neku ocenu: "))
+
+#  2 == 5
+#  5 == 5
+if ocena == 5:
+    print("odlican")
+elif ocena == 4:
+    print("vrlo dobar")
+elif ocena == 3:
+    print("dobar")
+elif ocena == 2:
+    print("dovoljan")
+elif ocena == 1:
+    print("nedovoljan")
 
 
 
